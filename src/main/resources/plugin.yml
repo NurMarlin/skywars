@@ -1,0 +1,10 @@
+name: SkyWars
+version: 1.0
+main: de.marlin.skywars.SkyWars
+api-version: 1.13
+
+commands:
+  start:
+    permission: skywars.command.start
+  setup:
+    permission: skywars.command.setup

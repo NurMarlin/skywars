@@ -1,0 +1,14 @@
+Map-System
+Kit-System
+Round-System (maybe)
+CombatLog System
+
+Setup-State:
+Waiting-State:
+Game-State:
+Restart-State:
+
+Commands:
+ - ForceMap
+ - Fix
+
